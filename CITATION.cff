@@ -9,6 +9,5 @@ repository-code: "https://github.com/sebastianobecchetti/bek"
 url: "https://sebastianobecchetti.github.io/bek_online_coder/"
 abstract: >-
   A C++17 codec that compresses 3D Gaussian Splatting scenes into the .bek
-  container without discarding or degrading any individual splat, together with
-  a parameter sweep harness and a rate-distortion analysis GUI.
+  container without discarding or degrading any individual splat.
 license: MIT
