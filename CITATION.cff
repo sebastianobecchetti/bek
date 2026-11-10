@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+title: "BEK: a codec for 3D Gaussian Splatting scenes"
+message: "If you use this software, please cite it as below."
+type: software
+authors:
+  - family-names: Becchetti
+    given-names: Sebastiano
+repository-code: "https://github.com/sebastianobecchetti/bek"
+url: "https://sebastianobecchetti.github.io/bek_online_coder/"
+abstract: >-
+  A C++17 codec that compresses 3D Gaussian Splatting scenes into the .bek
+  container without discarding or degrading any individual splat, together with
+  a parameter sweep harness and a rate-distortion analysis GUI.
+license: MIT
